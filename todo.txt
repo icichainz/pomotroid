@@ -1,0 +1,5 @@
+Update dependencies.
+App the app to the try in case it first killed.
+Add windows resize.
+Add more types of alarms.
+Add a bit of google ads inside the system to make money.
